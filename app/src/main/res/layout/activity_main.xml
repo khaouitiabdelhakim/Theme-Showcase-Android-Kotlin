@@ -4,6 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:paddingTop="40dp"
     android:background="?attr/backgroundMainColor"
     tools:context=".MainActivity">
 
@@ -30,9 +31,9 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="16dp"
             android:text="@string/app_title"
+            android:textColor="?attr/textMainColor"
             android:textSize="24sp"
             android:textStyle="bold"
-            android:textColor="?attr/textMainColor"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@id/ivHeader" />

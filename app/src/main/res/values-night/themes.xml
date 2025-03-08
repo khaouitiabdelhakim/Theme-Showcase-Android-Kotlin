@@ -3,10 +3,19 @@
     <!-- Dark theme -->
     <style name="Theme.ThemeShowcase" parent="Theme.MaterialComponents.DayNight.NoActionBar">
 
+        <!-- Translucent status bar -->
+        <item name="android:windowTranslucentStatus">true</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+
+
+        <!-- Android fonts -->
+        <item name="android:fontFamily">@font/aoboshi_one</item>
+        <item name="fontFamily">@font/aoboshi_one</item>
+
         <!-- Custom text attributes -->
         <item name="textMainColor">#E0E0E0</item>
         <item name="textSecondaryColor">#AEAEAE</item>
-        <item name="backgroundMainColor">#121212</item>
+        <item name="backgroundMainColor">#000826</item>
         <item name="backgroundCardColor">#1E1E1E</item>
         <item name="iconTintColor">#64B5F6</item>
         <item name="buttonTextColor">#FFFFFF</item>
