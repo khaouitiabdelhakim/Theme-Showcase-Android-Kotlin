@@ -6,4 +6,10 @@
     <string name="header_image">Header image</string>
     <string name="switch_to_dark">Switch to Dark</string>
     <string name="switch_to_light">Switch to Light</string>
+
+    <!-- Theme strings -->
+    <string name="theme_settings">Theme:</string>
+    <string name="light_theme">Light</string>
+    <string name="dark_theme">Dark</string>
+    <string name="system_theme">System</string>
 </resources>
