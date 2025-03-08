@@ -4,7 +4,8 @@ A simple Android app demonstrating light and dark theme implementation.
 
 ## Theme Preview
 
-![Light Mode](https://github.com/khaouitiabdelhakim/Theme-Showcase-Android-Kotlin/blob/master/screens/light-mode.jpg) → ![Dark Mode](https://github.com/khaouitiabdelhakim/Theme-Showcase-Android-Kotlin/blob/master/screens/dark-mode.jpg)
+<img src="https://github.com/khaouitiabdelhakim/Theme-Showcase-Android-Kotlin/blob/master/screens/light-mode.jpg" alt="Light Mode" width="200"> → 
+<img src="https://github.com/khaouitiabdelhakim/Theme-Showcase-Android-Kotlin/blob/master/screens/dark-mode.jpg" alt="Dark Mode" width="200">
 
 ## Features
 
