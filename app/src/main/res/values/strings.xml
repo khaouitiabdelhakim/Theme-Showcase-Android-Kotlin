@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Theme Showcase</string>
+    <string name="app_title">Light and Dark Theme Demo</string>
+    <string name="app_content">This is a demonstration of how to implement light and dark themes in an Android application. The UI elements automatically adjust their colors based on the current theme.\n\nIn the light theme, you\'ll notice bright backgrounds with dark text, while the dark theme offers a more subdued color palette that\'s easier on the eyes in low-light conditions.\n\nMaterial Design components are used throughout the app, which respect theme attributes to maintain consistent styling.</string>
+    <string name="read_more">Read More</string>
+    <string name="header_image">Header image</string>
+    <string name="switch_to_dark">Switch to Dark</string>
+    <string name="switch_to_light">Switch to Light</string>
+</resources>

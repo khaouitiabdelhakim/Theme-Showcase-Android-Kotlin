@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Light theme colors -->
+    <color name="colorPrimary">#1976D2</color>
+    <color name="colorPrimaryDark">#1565C0</color>
+    <color name="colorAccent">#03A9F4</color>
+
+    <!-- Dark theme colors -->
+    <color name="colorPrimaryNight">#0D47A1</color>
+    <color name="colorPrimaryDarkNight">#002171</color>
+    <color name="colorAccentNight">#0288D1</color>
+
+    <color name="lightBackground">#FFFFFF</color>
+    <color name="lightSurface">#F5F5F5</color>
+    <color name="lightOnSurface">#212121</color>
+
+    <color name="darkBackground">#121212</color>
+    <color name="darkSurface">#1E1E1E</color>
+    <color name="darkOnSurface">#E0E0E0</color>
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Light theme -->
+    <style name="Theme.ThemeShowcase" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+
+        <!-- Custom text attributes -->
+        <item name="textMainColor">#212121</item>
+        <item name="textSecondaryColor">#757575</item>
+        <item name="backgroundMainColor">#FFFFFF</item>
+        <item name="backgroundCardColor">#F5F5F5</item>
+        <item name="iconTintColor">#1976D2</item>
+        <item name="buttonTextColor">#FF3E00</item>
+        <item name="buttonBackgroundColor">#BFBFBF</item>
+
+
+    </style>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Dark theme -->
+    <style name="Theme.ThemeShowcase" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+
+        <!-- Custom text attributes -->
+        <item name="textMainColor">#E0E0E0</item>
+        <item name="textSecondaryColor">#AEAEAE</item>
+        <item name="backgroundMainColor">#121212</item>
+        <item name="backgroundCardColor">#1E1E1E</item>
+        <item name="iconTintColor">#64B5F6</item>
+        <item name="buttonTextColor">#FFFFFF</item>
+        <item name="buttonBackgroundColor">#FF3D00</item>
+    </style>
+</resources>
