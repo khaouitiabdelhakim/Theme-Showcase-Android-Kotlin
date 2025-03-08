@@ -2,6 +2,10 @@
 
 A simple Android app demonstrating light and dark theme implementation.
 
+## Theme Preview
+
+![Light Mode](https://github.com/khaouitiabdelhakim/Theme-Showcase-Android-Kotlin/blob/master/screens/light-mode.jpg) → ![Dark Mode](https://github.com/khaouitiabdelhakim/Theme-Showcase-Android-Kotlin/blob/master/screens/dark-mode.jpg)
+
 ## Features
 
 - Toggle between light and dark themes
@@ -29,6 +33,7 @@ A simple Android app demonstrating light and dark theme implementation.
 - Creating custom theme attributes 
 - Implementing theme switching with `AppCompatDelegate`
 - Using resource directories (`values-night`) for theme variants
+- Translucent status bar implementation
 
 ## Implementation Notes
 
